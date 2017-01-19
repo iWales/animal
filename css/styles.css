@@ -2,3 +2,15 @@
   width: 250px;
   border: black solid 10px;
 }
+.title p {
+  font-style: italic;
+  font-weight: bolder;
+}
+.columns {
+  width: 300px;
+  float: left;
+}
+.columns h5 {
+  font-weight: bolder;
+  color: red;
+}
